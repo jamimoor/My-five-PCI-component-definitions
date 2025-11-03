@@ -10,7 +10,7 @@ x-trestle-global:
   sort-id: pcidss_4_1-01.01
 ---
 
-# pcidss_4_1-1.1 - \[REPLACE_ME\] All Security Policies And Operational Procedures That Are Identified In Requirement 1 Are Documented, Kept Up To Date, In Use And Known To All Affected Parties.
+# pcidss_4_1-1.1 - All security policies and operational procedures that are identified in Requirement 4 are: • Documented. • Kept up to date. • In use. • Known to all affected parties.
 
 ## Control Statement
 
@@ -23,6 +23,8 @@ ______________________________________________________________________
 <!-- Note that the list of rules under ### Rules: is read-only and changes will not be captured after assembly to JSON -->
 
 <!-- Add control implementation description here for control: pcidss_4_1-1.1 -->
+
+Examine documentation and interview personnel to verify that security policies and operational procedures identified in Requirement 4 are managed in accordance with all elements specified in this requirement.
 
 ### Rules:
 
