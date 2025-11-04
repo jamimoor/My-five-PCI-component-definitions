@@ -10,7 +10,7 @@ x-trestle-global:
   sort-id: pcidss_4_2-02.03
 ---
 
-# pcidss_4_2-2.3 - \[REPLACE_ME\] Primary Functions Requiring Different Security Levels Are Managed
+# pcidss_5.1 Processes and mechanisms for protecting all systems and networks from malicious software are defined and understood.
 
 ## Control Statement
 
