@@ -10,7 +10,7 @@ x-trestle-global:
   sort-id: pcidss_4_2-01.01
 ---
 
-# pcidss_4_2-1.1 - \[REPLACE_ME\] All Security Policies And Operational Procedures That Are Identified In Requirement 2 Are Documented, Kept Up To Date, In Use And Known To All Affected Parties.
+# pcidss_4_2-1.1 - An inventory of the entity’s trusted keys and certificates used to protect PAN during transmission is maintained.
 
 ## Control Statement
 
@@ -23,6 +23,9 @@ ______________________________________________________________________
 <!-- Note that the list of rules under ### Rules: is read-only and changes will not be captured after assembly to JSON -->
 
 <!-- Add control implementation description here for control: pcidss_4_2-1.1 -->
+
+4.2.1.1.a Examine documented policies and procedures to verify processes are defined for the entity to maintain an inventory of its trusted keys and certificates.
+4.2.1.1.b Examine the inventory of trusted keys and certificates to verify it is kept up to date.
 
 ### Rules:
 
