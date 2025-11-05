@@ -10,7 +10,7 @@ x-trestle-global:
   sort-id: pcidss_4_2-02.02
 ---
 
-# pcidss_4_2-2.2 - \[REPLACE_ME\] Vendor Default Accounts Are Managed.
+# pcidss_4_2-2.2 - PAN is secured with strong cryptography whenever it is sent via end-user messaging technologies.
 
 ## Control Statement
 
@@ -28,6 +28,9 @@ ______________________________________________________________________
 <!-- Note that the list of rules under ### Rules: is read-only and changes will not be captured after assembly to JSON -->
 
 <!-- Add control implementation description here for control: pcidss_4_2-2.2 -->
+
+4.2.2.a Examine documented policies and procedures to verify that processes are defined to secure PAN with strong cryptography whenever sent over end-user messaging technologies.
+4.2.2.b Examine system configurations and vendor documentation to verify that PAN is secured with strong cryptography whenever it is sent via end-user messaging technologies.
 
 ### Rules:
 

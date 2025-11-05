@@ -10,7 +10,7 @@ x-trestle-global:
   sort-id: pcidss_4_2-01.02
 ---
 
-# pcidss_4_2-1.2 - \[REPLACE_ME\] Roles And Responsibilities For Performing Activities In Requirement 2 Are Documented, Assigned, And Understood.
+# pcidss_4_2-1.2 - Wireless networks transmitting PAN or connected to the CDE use industry best practices to implement strong cryptography for authentication and transmission.
 
 ## Control Statement
 
@@ -27,6 +27,7 @@ ______________________________________________________________________
 <!-- Note that the list of rules under ### Rules: is read-only and changes will not be captured after assembly to JSON -->
 
 <!-- Add control implementation description here for control: pcidss_4_2-1.2 -->
+4.2.1.2 Examine system configurations to verify that wireless networks transmitting PAN or connected to the CDE use industry best practices to implement strong cryptography for authentication and transmission.
 
 ### Rules:
 

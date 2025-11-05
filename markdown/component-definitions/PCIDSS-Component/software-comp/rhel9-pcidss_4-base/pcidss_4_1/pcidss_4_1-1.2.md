@@ -10,7 +10,7 @@ x-trestle-global:
   sort-id: pcidss_4_1-01.02
 ---
 
-# pcidss_4_1-1.2 - \[REPLACE_ME\] Roles And Responsibilities For Performing Activities In Requirement 1 Are Documented, Assigned, And Understood.
+# pcidss_4_1-1.2 - Roles And Responsibilities For Performing Activities In Requirement Are Documented, Assigned, And Understood.
 
 ## Control Statement
 
@@ -23,6 +23,9 @@ ______________________________________________________________________
 <!-- Note that the list of rules under ### Rules: is read-only and changes will not be captured after assembly to JSON -->
 
 <!-- Add control implementation description here for control: pcidss_4_1-1.2 -->
+4.1.2.a Examine documentation to verify that descriptions of roles and responsibilities for performing activities in Requirement 4 are documented and assigned.
+
+4.1.2.b Interview personnel with responsibility for performing activities in Requirement 4 to verify that roles and responsibilities are assigned as documented and are understood.
 
 ### Rules:
 
